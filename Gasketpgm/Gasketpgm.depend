@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548754409 source:/home/shubham/Documents/CG/Gasketpgm/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+
